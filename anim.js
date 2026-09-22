@@ -1,4 +1,4 @@
-// Sincronizar las letras con la canción
+// 1.Sincronizar las letras con la canción
 var audio = document.querySelector("audio");
 var lyrics = document.querySelector("#lyrics");
 
